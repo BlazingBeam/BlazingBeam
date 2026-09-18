@@ -8,7 +8,13 @@
 - 🎓 Currently exploring 3D interior room scanning and reconstruction.
 - 💻 Building robust web apps with the MERN stack and Next.js.
 - ⚡ Optimizing performance using CUDA, OpenMP, and OpenCL.
-- 🌍 Preparing for postgraduate studies.
+
+### 🚀 Featured Projects
+
+* **taxPKR:** A MERN-stack web portal redesigning the Pakistani income tax system with dual-language support, tax slab suggestions, and JWT authentication.
+* **AWS Bedrock RAG Chatbot:** An AI assistant leveraging Amazon Nova Lite and FAISS vector embeddings for intelligent document querying. 
+* **Parallel Bellman-Ford Optimizer:** High-performance algorithm implementations using CUDA CSR format, OpenMP, and OpenCL to analyze roofline performance.
+* **ServEase:** Architecture and system design for a comprehensive service marketplace.
 
 ### 🛠️ Languages & Tools
 
@@ -27,12 +33,6 @@
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-### 🚀 Featured Projects
-
-* **taxPKR:** A MERN-stack web portal redesigning the Pakistani income tax system with dual-language support, tax slab suggestions, and JWT authentication.
-* **AWS Bedrock RAG Chatbot:** An AI assistant leveraging Amazon Nova Lite and FAISS vector embeddings for intelligent document querying. 
-* **Parallel Bellman-Ford Optimizer:** High-performance algorithm implementations using CUDA CSR format, OpenMP, and OpenCL to analyze roofline performance.
-* **ServEase:** Architecture and system design for a comprehensive service marketplace.
 
 ### 📊 GitHub Stats
 
